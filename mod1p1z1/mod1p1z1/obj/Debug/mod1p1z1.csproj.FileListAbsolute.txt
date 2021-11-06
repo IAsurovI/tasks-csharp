@@ -1,0 +1,10 @@
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\bin\Debug\mod1p1z1.exe.config
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\bin\Debug\mod1p1z1.exe
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\bin\Debug\mod1p1z1.pdb
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.csproj.AssemblyReference.cache
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.Form1.resources
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.Properties.Resources.resources
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.csproj.GenerateResource.cache
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.csproj.CoreCompileInputs.cache
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.exe
+D:\VS Projects\С#\mod1p1z1\mod1p1z1\obj\Debug\mod1p1z1.pdb
