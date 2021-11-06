@@ -1,0 +1,10 @@
+D:\VS Projects\С#\lab6p1\lab6p1\bin\Debug\lab6p1.exe.config
+D:\VS Projects\С#\lab6p1\lab6p1\bin\Debug\lab6p1.exe
+D:\VS Projects\С#\lab6p1\lab6p1\bin\Debug\lab6p1.pdb
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.csproj.AssemblyReference.cache
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.Properties.Resources.resources
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.csproj.GenerateResource.cache
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.csproj.CoreCompileInputs.cache
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.exe
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.pdb
+D:\VS Projects\С#\lab6p1\lab6p1\obj\Debug\lab6p1.Form1.resources

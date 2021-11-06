@@ -1,0 +1,10 @@
+D:\VS Projects\С#\lab9p1\lab9p1\bin\Debug\lab9p1.exe.config
+D:\VS Projects\С#\lab9p1\lab9p1\bin\Debug\lab9p1.exe
+D:\VS Projects\С#\lab9p1\lab9p1\bin\Debug\lab9p1.pdb
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.csproj.AssemblyReference.cache
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.Form1.resources
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.Properties.Resources.resources
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.csproj.GenerateResource.cache
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.csproj.CoreCompileInputs.cache
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.exe
+D:\VS Projects\С#\lab9p1\lab9p1\obj\Debug\lab9p1.pdb
