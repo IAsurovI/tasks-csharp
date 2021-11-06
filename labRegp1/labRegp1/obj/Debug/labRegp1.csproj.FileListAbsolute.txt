@@ -1,0 +1,10 @@
+D:\VS Projects\С#\labRegp1\labRegp1\bin\Debug\labRegp1.exe.config
+D:\VS Projects\С#\labRegp1\labRegp1\bin\Debug\labRegp1.exe
+D:\VS Projects\С#\labRegp1\labRegp1\bin\Debug\labRegp1.pdb
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.csproj.AssemblyReference.cache
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.Form1.resources
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.Properties.Resources.resources
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.csproj.GenerateResource.cache
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.csproj.CoreCompileInputs.cache
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.exe
+D:\VS Projects\С#\labRegp1\labRegp1\obj\Debug\labRegp1.pdb

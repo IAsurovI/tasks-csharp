@@ -1,0 +1,14 @@
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.exe
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.deps.json
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.runtimeconfig.json
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.runtimeconfig.dev.json
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.dll
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\bin\Debug\netcoreapp3.1\labOOP_1p1.pdb
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.csproj.AssemblyReference.cache
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.AssemblyInfoInputs.cache
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.AssemblyInfo.cs
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.csproj.CoreCompileInputs.cache
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.dll
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.pdb
+D:\VS Projects\С#\labOOP_1p1\labOOP_1p1\obj\Debug\netcoreapp3.1\labOOP_1p1.genruntimeconfig.cache
