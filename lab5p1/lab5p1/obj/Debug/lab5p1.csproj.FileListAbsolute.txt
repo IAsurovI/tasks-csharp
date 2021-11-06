@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.Form1.resources
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.Properties.Resources.resources
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\lab5p1\lab5p1\bin\Debug\lab5p1.exe.config
+C:\Users\Student\source\repos\lab5p1\lab5p1\bin\Debug\lab5p1.exe
+C:\Users\Student\source\repos\lab5p1\lab5p1\bin\Debug\lab5p1.pdb
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.exe
+C:\Users\Student\source\repos\lab5p1\lab5p1\obj\Debug\lab5p1.pdb
